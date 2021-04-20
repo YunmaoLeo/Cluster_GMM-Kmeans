@@ -1,6 +1,10 @@
 # Cluster_GMM-Kmeans
 阿里天池——聚类汽车竞品分析
   
+* 特征处理: 
+  * StandardScaler 
+  * OneHotEncoder 
+
 * GMM:
   * 使用AIC,BIC协助选择最适合的簇数
 
