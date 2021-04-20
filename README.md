@@ -13,5 +13,6 @@
   * Silhouette coefficient判断适合簇数
 
 <img src='/image/1.png'>  
-          
+<img src='/image/2.png'>  
+<img src='/image/3.png'>  
 
