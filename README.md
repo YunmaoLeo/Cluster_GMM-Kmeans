@@ -12,6 +12,6 @@
   * kmeans.inertia_
   * Silhouette coefficient判断适合簇数
 
-<img src='/image/1.png>  
+<img src='/image/1.png'>  
           
 
